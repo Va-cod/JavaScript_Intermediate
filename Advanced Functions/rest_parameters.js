@@ -6,6 +6,6 @@ function addition(...numbers){
     return (total)
 }
 
-const result = addition(10, 20, 30, 40);
+const result = addition(10, 20, 30, 40, 50);
 
 console.log(result);
